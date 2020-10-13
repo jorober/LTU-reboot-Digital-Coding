@@ -3,3 +3,23 @@ Test. Something.
 # Test
 ## TEST
 <h1>TEST</h1>
+
+Module / Session - date
+
+1.1. - 02/06/2020
+
+Reflection
+
+// Your reflection goes here
+
+In today session I learnt that the Web Development industry is a rewarding, lucrative and creative industry to get into.
+
+I also introduce myself to a class of strangers, this was initial a hard thing for me to undertake, but, as I heard other stories,
+
+I began to realise that it was a good thing, and I feel that I had a break through with my confidence.
+
+The part that I enjoyed the most was finding out what a web developer actually does, and the different roles that there are,
+
+for instance, I did not realise that the is someone responsible for how a website looks and feels: frontend developer, and someone
+
+responsible for the things that you don't see: Backend developer.

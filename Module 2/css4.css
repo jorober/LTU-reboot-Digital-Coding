@@ -45,6 +45,13 @@ strong pleh {
 
 strong {
   font-family: "Comic Sans MS", cursive, sans-serif;
-  background-color:Impact, Charcoal, sans-serif;
-  
 }
+
+#test{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 50px;
+}
+
+.hello{font-family: "Comic Sans MS", cursive, sans-serif;
+}
+

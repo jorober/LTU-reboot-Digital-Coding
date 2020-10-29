@@ -9,11 +9,21 @@
 }
 
 .rel2{
-  position: absolute;
-  left: 300px;
-  top: 300px;
+  position: relative;
+  left: 50px;
+  top: 50px;
   height: 70px;
   background-color:green;
   border: 10px dotted yellow;
+  width: 100px;
+}
+
+.abso{
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+  height: 70px;
+  background-color:blue;
+  border: 10px solid black;
   width: 100px;
 }

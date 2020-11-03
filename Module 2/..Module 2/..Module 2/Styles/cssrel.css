@@ -5,7 +5,8 @@
     height: 100px;
     background-color: yellow;
     border: 10px solid green;
-    width: 150px
+    width: 150px;
+    z-index: 2
 }
 
 .rel2{
@@ -16,6 +17,7 @@
   background-color:green;
   border: 10px dotted yellow;
   width: 100px;
+  z-index: 0
 }
 
 .abso{
@@ -26,4 +28,5 @@
   background-color:blue;
   border: 10px solid black;
   width: 100px;
+  z-index: 1
 }

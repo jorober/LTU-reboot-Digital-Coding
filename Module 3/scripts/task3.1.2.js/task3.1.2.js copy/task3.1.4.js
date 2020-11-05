@@ -8,3 +8,4 @@ var number2 = 5;
 var number = number1 + number2;
 console.log(number)
 document.write(number);
+alert(number);

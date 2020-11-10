@@ -23,3 +23,4 @@ function add(a, b){
     document.write(a + b)
 }
 add('joshua ', 'roberts')
+add('Hercule ', 'Bobbbins')

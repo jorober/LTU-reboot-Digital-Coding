@@ -11,26 +11,20 @@
 var recipe = {
     recipeTitle: 'chum',
     servings: 4,
-    ingredients: ['fish, heads'],
-    directions: 'add your fish to your heads to make chum'
-}
+    ingredients: ['fish', 'heads'],
+    directions: 'add your fish to your heads to make chum',
+    letsCook: function () {
+        document.write("test" + recipe.recipeTitle);
+    }
+};
 
+var ingredients = recipe.ingredients
 
-document.write(recipe.recipeTitle)
+for(var index = 0; index<ingredients.length; index++){
+    document.write(ingredients[index]);
+};
 
-/*
-
-var peeps = [
-    {name: 'test', age:21},
-    {name: 'jolenes', age:22}
-];
-
-
-for (var i = 0, i =< peeps.length, i++){
-    var user = users[i]
-    document.write(peeps.name + 'is'  )
-}
-*/
+console.log(Object.keys(recipe));
     </script>
 </body>
 </html>

@@ -20,7 +20,7 @@ var paragraph = document.querySelector('p');
 */
 
 //Select All
-
+/*
   var paragraph = document.querySelectorAll('p');
     
 
@@ -30,14 +30,15 @@ paragraph[index].style.color = 'red';
 
 }
   
-
+*/
 
 //For each
 
-array.forEach(element => {
+var paragraph = document.querySelectorAll('p');
+paragraph.forEach(function (para) {
+    para.style.color = 'red';
     
 });
-
 
 
 

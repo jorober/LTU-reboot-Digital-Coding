@@ -1,0 +1,24 @@
+
+.selection-container{
+    margin-bottom: 30px;
+    padding: 20px;
+
+}
+
+.main img{
+    width: 300px;
+    margin: 10px;
+}
+
+.active {
+    background-color: grey;
+    color: #fff
+}
+
+.image-selections{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 90%;
+    margin: 0 auto;
+}
